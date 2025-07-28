@@ -20,7 +20,7 @@ Using Biopython and related libraries, the analysis explores sequence-level, str
 - **PDB ID**: 7O7K
 - **Function**: Involved in brain development, cell cycle regulation
 - **Relevance**: Linked to Down Syndrome, Alzheimer’s, and other neurological disorders
-- 
+  
 ## 🧰 Tools & Libraries
 
 - 🐍 Python
