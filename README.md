@@ -78,7 +78,9 @@ This project offers insights into its sequence and structural conservation, whic
    cd DYRK1A-Proteomic-Structural-Analysis
 
 2. Initial dependencies:
+    ```bash
    pip install -r requirements.txt
 
-3. Run the script:
+4. Run the script:
+    ```bash
    python proteinwork.py
