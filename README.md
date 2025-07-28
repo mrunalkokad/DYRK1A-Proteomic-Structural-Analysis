@@ -55,6 +55,7 @@ DYRK1A is a critical protein that regulates multiple signaling pathways in the b
 2. Alzheimer’s Disease
 3. Autism Spectrum Disorders
 4. Neurogenesis and synaptic plasticity dysfunction
+
 This project offers insights into its sequence and structural conservation, which can help in target discovery and drug development.
 
 ## 📊 Key Visual Outputs
